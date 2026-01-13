@@ -11,7 +11,3 @@ Um projeto de calculadora funcional desenvolvido com tecnologias web fundamentai
 - **Interface Limpa:** Design focado na experiência do utilizador (UX).
 - **Layout Responsivo:** Adaptável a diferentes tamanhos de ecrã (Mobile e Desktop).
 - **Organização de Código:** Estrutura de ficheiros separada para facilitar a manutenção.
-
-## 🚀 Como Visualizar
-1. Faça o download ou clone este repositório.
-2. Abra o ficheiro `index.html` em qualquer navegador.
