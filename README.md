@@ -1,13 +1,16 @@
-# 🧮 Calculadora Básica
+# 🧮 Calculadora Web
 
-Um projeto de calculadora funcional desenvolvido com tecnologias web fundamentais. Este repositório demonstra a aplicação de lógica inicial e estruturação de interfaces intuitivas.
+Uma calculadora funcional e responsiva desenvolvida como parte dos meus estudos de Frontend na **ETEC Zona Leste**.
 
-## 🛠️ Tecnologias Utilizadas
-- **HTML5:** Estruturação dos elementos e botões.
-- **CSS3:** Estilização moderna, focada em usabilidade e feedback visual ao utilizador.
-- **JavaScript:** (Se aplicável) Lógica para operações aritméticas fundamentais.
+## 🔗 Demonstração
+> **Acesse o projeto aqui:** <br>(https://samiratoledo.github.io/calculadora-basica/) 🚀
 
-## 🌟 Diferenciais do Projeto
-- **Interface Limpa:** Design focado na experiência do utilizador (UX).
-- **Layout Responsivo:** Adaptável a diferentes tamanhos de ecrã (Mobile e Desktop).
-- **Organização de Código:** Estrutura de ficheiros separada para facilitar a manutenção.
+## 🛠️ Tecnologias e Conceitos
+- **HTML5:** Estruturação semântica de botões e display.
+- **CSS3:** Estilização moderna e layout responsivo para dispositivos móveis.
+- **Lógica de Programação:** Implementação de operações aritméticas básicas.
+
+## 🌟 Diferenciais
+- **Layout Adaptável:** Funciona perfeitamente em celulares e computadores.
+- **Interatividade:** Feedback visual ao clicar nos botões.
+- **Deploy Automático:** Hospedagem realizada via GitHub Pages para fácil acesso.
